@@ -1,6 +1,6 @@
 # Loco Twitch (WIP)
 
-Loco Twitch is a ISynchronousRC with focus on Twitch IRC chat.
+Loco Twitch is a Synchronous IRC client with focus on Twitch IRC chat.
 
 
 Usage:
