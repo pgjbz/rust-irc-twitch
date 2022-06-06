@@ -7,7 +7,7 @@ Usage:
 
 ```toml
 [dependencies]
-irc-twitch = "0.1.0"
+loco-twitch = "0.1.0"
 ```
 
 ```rust
